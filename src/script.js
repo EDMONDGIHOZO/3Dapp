@@ -4,7 +4,7 @@ import * as THREE from 'three'
 const scene = new THREE.Scene()
 // find the sizes of our scene
 const sizes = {
-    width: window.innerWidth,
+    width: 900,
     height: 700
 }
 
